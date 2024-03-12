@@ -289,9 +289,9 @@ width: 100%;
 .home{
     display: flex;
     justify-content: center;
-    border: 2px solid;
-    background: url(./img/walpaper.jpg)no-repeat;
-    /* background:url(../img/walpaper8.JPG)no-repeat; */
+    border: 0px solid;
+    /* background: url(../img/banner-img.jpg)no-repeat; */
+    background:url(../img/walpaper8.JPG)no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 14rem;
